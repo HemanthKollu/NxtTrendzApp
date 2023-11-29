@@ -1,0 +1,28 @@
+.order-placed-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.order-placed-card {
+  text-align: center;
+  box-shadow: 10px 10px 14px 4px #bfbfbf;
+  padding: 40px 20px 40px 20px;
+  border-radius: 10px;
+}
+.order-head {
+  font-size: 30px;
+}
+.order-des {
+  font-size: 20px;
+}
+.order-btn {
+  background-color: #0967d2;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
